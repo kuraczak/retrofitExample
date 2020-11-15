@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "John",
+      "surname": "Travolta",
+      "age": "125",
+      "about": "To be or not to be",
+      "id": 1
+    },
+    {
+      "name": "Johnek",
+      "surname": "Travolta",
+      "age": "69",
+      "about": "To be or not to be",
+      "id": 2
+    },
+    {
+      "name": "Adamek",
+      "surname": "Małysz",
+      "age": "123",
+      "about": "I belive I can fly",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Jack",
+      "surname": "Sasin",
+      "age": 70000000,
+      "about": "I like voting "
+    },
+    {
+      "name": "Jack",
+      "surname": "Sparrow",
+      "age": "70000000",
+      "about": "I like trains",
+      "id": 5
+    },
+    {
+      "name": "Jack",
+      "surname": "Be Quick",
+      "age": "24",
+      "about": "Fast and ple ",
+      "id": 6
+    }
+  ]
+}
